@@ -2,9 +2,11 @@
 
 ## Description/Instructions
 
-Please find below a few questions that mimic some common problems we encounter at ITG. They are grouped by broad theme. You will notice there are many questions, the goal is not to answer them all but to pick a few questions to focus on (10 is a good number, but pick as many as you want). You should pick from all three categories, but there are many more bioinformatics questions so you should mainly pick from those. We encourage you to choose your questions according to your areas of expertise but also to try and answer questions that are as varied as possible.
+Please find below a few questions that mimic some common problems we encounter at ITG. They are grouped by broad theme. You will notice there are many questions, the goal is not to answer them all but to pick a few questions to focus on (10 is a good number, but pick as many as you want). You should pick from all three categories, but there are many more bioinformatics questions so you should mainly pick from those. We encourage you to choose your questions according to your areas of expertise but also to try and answer questions that are as varied as possible.hfg uf hguzgzugzugzu gg v fcz f tz ftzvg
+tf gf tzftzf tzftzf tzftzf tzf tzftzftft ftz vtzftzftzftztzftzf tzftz  fuz fuzfddf 
 
 For programmatic questions, you can use the language and libraries of your choice, but we will assess whether your choice of language was optimal. Try and aim for a minimal solution in terms of code length. If you use a shell script, you can assume that common non-core packages will be installed (e.g. `awk`, `sed`, `perl`, `python`, `sponge`, `wget` or `jq`). You can use the shell of your choice, if not otherwise specified we will assume `bash`. Assume that all common bioinformatics tools `bcftools`, `bedtools`, `vcftools`, `plink` and others are all installed.
+fufz fgztf tzi zg izugig zu fcfu uhg vzgv z fztf tzuz
 
 We are primarily interested in how you would solve these problems if you encountered them in real life. Whenever the command line or programming is used, please include your code along with your answer. Not all questions are programmatic, and some are open-ended. Feel free to include details and to discuss potential issues if you don't think there is a clear-cut answer.
 
